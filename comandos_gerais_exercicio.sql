@@ -26,3 +26,4 @@ INSERT INTO cliente(nomeCliente) VALUES("Fabrício Pereira");
 
 DELETE FROM cliente WHERE codCLiente=4;
  
+SELECT * FROM cliente; 
